@@ -1,0 +1,27 @@
+#color-palette {
+    text-align: center;
+}
+
+.color{
+    border: 1px solid black;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+#square1{
+    background-color: rgba(0, 0, 0);
+}
+
+#square2{
+    background-color: rgba(151, 10, 44);
+}
+
+#square3{
+    background-color: rgb(251, 186, 0)
+}
+
+#square4{
+    background-color:  rgb(188, 185, 183)
+}
+
