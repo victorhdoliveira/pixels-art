@@ -1,60 +1,60 @@
-*{
-    text-align:  center;
-    background-color: rgb(221, 221, 221)
+* {
+  text-align: center;
+  background-color: rgb(221, 221, 221);
 }
 
-h1{
-    font-family: Roboto Slab;
+h1 {
+  font-family: monospace;
 }
+
 .color {
-    border: 1px solid black;
-    display: inline-block;
-    height: 100px;
-    width: 100px;
+  border: 1px solid black;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
 }
 
 #square1 {
-    background-color: rgba(0, 0, 0);
-    border-radius: 10%;
+  background-color: rgba(0, 0, 0);
+  border-radius: 10%;
 }
 
 #square2 {
-    background-color: rgba(151, 10, 44);
-    border-radius: 10%;
+  background-color: rgba(151, 10, 44);
+  border-radius: 10%;
 }
 
 #square3 {
-    background-color: rgb(251, 186, 0);
-    border-radius: 10%;
+  background-color: rgb(251, 186, 0);
+  border-radius: 10%;
 }
 
 #square4 {
-    background-color: rgb(107, 107, 107);
-    border-radius: 10%;
+  background-color: rgb(107, 107, 107);
+  border-radius: 10%;
 }
 
 .pixel {
-    background-color: white;
-    height: 40px;
-    width: 40px;
-    border: 1px solid black;
-    display: inline-block;
-  }
+  background-color: white;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  display: inline-block;
+}
 
-  #pixel-board {
-    margin-top: 15px;
-    width: 210px;
-    height: 210px;
-    position: absolute;
-    margin-left: 545px;
-    margin-top: 50px;
-    border: 2px solid black;
-    line-height: 0;
-  }
+#pixel-board {
+  margin-top: 50px;
+  width: 210px;
+  height: 210px;
+  position: absolute;
+  margin-left: 850px;
+  border: 2px solid black;
+  line-height: 0;
+}
 
-  #clear-board{
-    margin-top: 10px;
-    border-radius: 14%;
-    background-color: white;
+#clear-board {
+  margin-top: 10px;
+  border-radius: 14%;
+  background-color: white;
 
-  }
+}
